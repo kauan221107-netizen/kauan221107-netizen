@@ -28,4 +28,4 @@ Back-end com Java, bancos de dados e boas práticas de versionamento com Git.
 
 ## 📫 Contato
 - LinkedIn: [linkedin.com/in/kauan-silva-903134266](https://www.linkedin.com/in/kauan-silva-903134266/)
-- E-mail: kauan221107@hotmail.com
+- E-mail: kauan221107@gmail.com
